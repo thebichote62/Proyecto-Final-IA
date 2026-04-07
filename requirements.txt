@@ -1,0 +1,12 @@
+tensorflow
+torch
+torchaudio
+demucs
+openai-whisper
+gradio
+librosa
+numpy
+scipy
+ffmpeg-python
+pandas
+scikit-learn
